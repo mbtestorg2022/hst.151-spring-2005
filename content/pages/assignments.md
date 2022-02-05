@@ -54,10 +54,57 @@ Detailed description of Case Topics ([PDF]({{< baseurl >}}/resources/case_topic_
 
 Following are several examples of student case discussion presentations. Files are courtesy of the respective authors, used with permission.
 
-| TOPICS | STUDENTS | NOTES | SLIDES |
-| --- | --- | --- | --- |
-| Sulfasalazine | Paul Dieffenbach and Ali Shoeb | ([PDF]({{< baseurl >}}/resources/0208_sulfa_notes)) | ([PDF]({{< baseurl >}}/resources/0208_sulfa_slide)) |
-| Oral Hypoglycemics | Lynn Punnoose and Erika Wagner | ([PDF]({{< baseurl >}}/resources/0310_oral_notes)) | ([PDF]({{< baseurl >}}/resources/0310_oral_slides)) 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+STUDENTS
+{{< thclose >}}
+{{< thopen >}}
+NOTES
+{{< thclose >}}
+{{< thopen >}}
+SLIDES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Sulfasalazine
+{{< tdclose >}}
+{{< tdopen >}}
+Paul Dieffenbach and Ali Shoeb
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/0208_sulfa_notes))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/0208_sulfa_slide))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Oral Hypoglycemics
+{{< tdclose >}}
+{{< tdopen >}}
+Lynn Punnoose and Erika Wagner
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/0310_oral_notes))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/0310_oral_slides))
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 {{< anchor "drug_eval_report" >}}{{< /anchor >}}Drug Evaluation Report
 ----------------------------------------------------------------------
@@ -80,35 +127,351 @@ This exercise is intended to get you thinking about the utility, safety, and rel
 
 Due date is on session 12.
 
-| Suggested Drugs for Evaluation |
-| balsalazide | irbesartan | rifapentine |
-| basilixumab | lansoprazole | risedronate |
-| benazepril | leflunomide | rivastigmine |
-| beractant | lepirudin | rizatriptan |
-| bivalirudin | levalbuterol | rosiglitazone |
-| brinzolamide | levetiracetam | sermorelin |
-| candesartan | lomefloxacin | sibutramine |
-| caspofungin | meloxicam | sirolimus |
-| cefdinir | meropenem | telmisartan |
-| cerivastatin | mezlocillin | tenecteplase |
-| cilostazol | miglitol | tiagabine |
-| citalopram | mometasone | tirofiban |
-| clopidogrel | moxifloxacin | tolterodine |
-| colesevelam | naratriptan | tramadol |
-| daclizumab | nateglinide | trandolapril |
-| dofetilide | netilmicin | tyloxapol |
-| entacapone | nizatidine | valdecoxib |
-| eprosartan | olsalazine | valsartan |
-| eptifibatide | oseltamavir | venlafaxine |
-| etanercept | palivizumab | zafirlukast |
-| famciclovir | pantoprazole | zaleplon |
-| fenoterol | perindopril | zanamavir |
-| fosinopril | quetiapine | zileuton |
-| gatifloxacin | quinapril | ziprasidone |
-| glatiramer acetate | rabeprazole | zolmitriptan |
-| granisetron | raloxifene | zonisamide |
-| indapamide | ramipril | &nbsp; |
-| infliximab | repaglinide |   
+{{< tableopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Suggested Drugs for Evaluation
+{{< thclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+balsalazide
+{{< tdclose >}}
+{{< tdopen >}}
+irbesartan
+{{< tdclose >}}
+{{< tdopen >}}
+rifapentine
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+basilixumab
+{{< tdclose >}}
+{{< tdopen >}}
+lansoprazole
+{{< tdclose >}}
+{{< tdopen >}}
+risedronate
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+benazepril
+{{< tdclose >}}
+{{< tdopen >}}
+leflunomide
+{{< tdclose >}}
+{{< tdopen >}}
+rivastigmine
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+beractant
+{{< tdclose >}}
+{{< tdopen >}}
+lepirudin
+{{< tdclose >}}
+{{< tdopen >}}
+rizatriptan
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+bivalirudin
+{{< tdclose >}}
+{{< tdopen >}}
+levalbuterol
+{{< tdclose >}}
+{{< tdopen >}}
+rosiglitazone
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+brinzolamide
+{{< tdclose >}}
+{{< tdopen >}}
+levetiracetam
+{{< tdclose >}}
+{{< tdopen >}}
+sermorelin
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+candesartan
+{{< tdclose >}}
+{{< tdopen >}}
+lomefloxacin
+{{< tdclose >}}
+{{< tdopen >}}
+sibutramine
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+caspofungin
+{{< tdclose >}}
+{{< tdopen >}}
+meloxicam
+{{< tdclose >}}
+{{< tdopen >}}
+sirolimus
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+cefdinir
+{{< tdclose >}}
+{{< tdopen >}}
+meropenem
+{{< tdclose >}}
+{{< tdopen >}}
+telmisartan
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+cerivastatin
+{{< tdclose >}}
+{{< tdopen >}}
+mezlocillin
+{{< tdclose >}}
+{{< tdopen >}}
+tenecteplase
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+cilostazol
+{{< tdclose >}}
+{{< tdopen >}}
+miglitol
+{{< tdclose >}}
+{{< tdopen >}}
+tiagabine
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+citalopram
+{{< tdclose >}}
+{{< tdopen >}}
+mometasone
+{{< tdclose >}}
+{{< tdopen >}}
+tirofiban
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+clopidogrel
+{{< tdclose >}}
+{{< tdopen >}}
+moxifloxacin
+{{< tdclose >}}
+{{< tdopen >}}
+tolterodine
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+colesevelam
+{{< tdclose >}}
+{{< tdopen >}}
+naratriptan
+{{< tdclose >}}
+{{< tdopen >}}
+tramadol
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+daclizumab
+{{< tdclose >}}
+{{< tdopen >}}
+nateglinide
+{{< tdclose >}}
+{{< tdopen >}}
+trandolapril
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+dofetilide
+{{< tdclose >}}
+{{< tdopen >}}
+netilmicin
+{{< tdclose >}}
+{{< tdopen >}}
+tyloxapol
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+entacapone
+{{< tdclose >}}
+{{< tdopen >}}
+nizatidine
+{{< tdclose >}}
+{{< tdopen >}}
+valdecoxib
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+eprosartan
+{{< tdclose >}}
+{{< tdopen >}}
+olsalazine
+{{< tdclose >}}
+{{< tdopen >}}
+valsartan
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+eptifibatide
+{{< tdclose >}}
+{{< tdopen >}}
+oseltamavir
+{{< tdclose >}}
+{{< tdopen >}}
+venlafaxine
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+etanercept
+{{< tdclose >}}
+{{< tdopen >}}
+palivizumab
+{{< tdclose >}}
+{{< tdopen >}}
+zafirlukast
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+famciclovir
+{{< tdclose >}}
+{{< tdopen >}}
+pantoprazole
+{{< tdclose >}}
+{{< tdopen >}}
+zaleplon
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+fenoterol
+{{< tdclose >}}
+{{< tdopen >}}
+perindopril
+{{< tdclose >}}
+{{< tdopen >}}
+zanamavir
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+fosinopril
+{{< tdclose >}}
+{{< tdopen >}}
+quetiapine
+{{< tdclose >}}
+{{< tdopen >}}
+zileuton
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+gatifloxacin
+{{< tdclose >}}
+{{< tdopen >}}
+quinapril
+{{< tdclose >}}
+{{< tdopen >}}
+ziprasidone
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+glatiramer acetate
+{{< tdclose >}}
+{{< tdopen >}}
+rabeprazole
+{{< tdclose >}}
+{{< tdopen >}}
+zolmitriptan
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+granisetron
+{{< tdclose >}}
+{{< tdopen >}}
+raloxifene
+{{< tdclose >}}
+{{< tdopen >}}
+zonisamide
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+indapamide
+{{< tdclose >}}
+{{< tdopen >}}
+ramipril
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+infliximab
+{{< tdclose >}}
+{{< tdopen >}}
+repaglinide
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 {{< anchor "problem_set" >}}{{< /anchor >}}Problem Set
 ------------------------------------------------------
