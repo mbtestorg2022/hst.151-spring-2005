@@ -7,6 +7,7 @@ description: This resource includes information about overview and history of so
   between immunosuppressive and cancer chemotherapy.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/hst-151-principles-of-pharmacology-spring-2005/c7e3beab4c9c66883eb264cb61f2615d_0222_2_spitzer.pdf
 file_type: application/pdf
+parent_uid: 5502e4b6-eb0f-8058-7243-48791293e627
 resourcetype: Document
 title: 0222_2_spitzer.pdf
 uid: c7e3beab-4c9c-6688-3eb2-64cb61f2615d

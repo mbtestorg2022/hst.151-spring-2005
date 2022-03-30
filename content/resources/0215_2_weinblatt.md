@@ -7,6 +7,7 @@ description: 'This resource includes information regarding overview of anti-infl
   drugs.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/hst-151-principles-of-pharmacology-spring-2005/4e25135a3fc16447af325442e356daf0_0215_2_weinblatt.pdf
 file_type: application/pdf
+parent_uid: 5502e4b6-eb0f-8058-7243-48791293e627
 resourcetype: Document
 title: 0215_2_weinblatt.pdf
 uid: 4e25135a-3fc1-6447-af32-5442e356daf0

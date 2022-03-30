@@ -9,6 +9,7 @@ description: 'This resource includes information about folate (vitamin B9), coba
   of folate: chemotherapy, antibacterials and TMP synthesis.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/hst-151-principles-of-pharmacology-spring-2005/b0016283cc87a30552175c838750b1d0_0310_folate_sld.pdf
 file_type: application/pdf
+parent_uid: 9fa31ec0-ffc9-2a54-84c6-e47fa61f11dc
 resourcetype: Document
 title: 0310_folate_sld.pdf
 uid: b0016283-cc87-a305-5217-5c838750b1d0

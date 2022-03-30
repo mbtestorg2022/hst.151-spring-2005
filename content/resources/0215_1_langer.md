@@ -8,6 +8,7 @@ description: This resource includes information about the means by which a drug 
   of implanted pumps and transdermal systems.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/hst-151-principles-of-pharmacology-spring-2005/0f84cc2ea130aa05a330e73105ff7c5e_0215_1_langer.pdf
 file_type: application/pdf
+parent_uid: 5502e4b6-eb0f-8058-7243-48791293e627
 resourcetype: Document
 title: 0215_1_langer.pdf
 uid: 0f84cc2e-a130-aa05-a330-e73105ff7c5e

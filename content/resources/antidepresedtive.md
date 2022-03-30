@@ -9,6 +9,7 @@ description: This resource includes information about depression, diagnosis of d
   clinical use of sedatives, tolerance, cross-tolerance, and addiction.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/hst-151-principles-of-pharmacology-spring-2005/97c0402fbb590f3adad6f59edffdef5e_antidepresedtive.pdf
 file_type: application/pdf
+parent_uid: 5502e4b6-eb0f-8058-7243-48791293e627
 resourcetype: Document
 title: antidepresedtive.pdf
 uid: 97c0402f-bb59-0f3a-dad6-f59edffdef5e

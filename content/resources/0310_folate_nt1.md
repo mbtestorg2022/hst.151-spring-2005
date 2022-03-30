@@ -5,6 +5,7 @@ description: 'This resource includes information on dietary folate, clinical con
   folate: PABA analogues.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/hst-151-principles-of-pharmacology-spring-2005/bd7ecfedee2962e1eb23c26acd721700_0310_folate_nt1.pdf
 file_type: application/pdf
+parent_uid: 9fa31ec0-ffc9-2a54-84c6-e47fa61f11dc
 resourcetype: Document
 title: 0310_folate_nt1.pdf
 uid: bd7ecfed-ee29-62e1-eb23-c26acd721700

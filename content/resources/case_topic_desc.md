@@ -8,6 +8,7 @@ description: This resource includes information about organophosphate poisoning,
   - terminal cancer, and drug abuse
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/hst-151-principles-of-pharmacology-spring-2005/e3c66c49298fddf4c80e391c95b813a4_case_topic_desc.pdf
 file_type: application/pdf
+parent_uid: 9fa31ec0-ffc9-2a54-84c6-e47fa61f11dc
 resourcetype: Document
 title: case_topic_desc.pdf
 uid: e3c66c49-298f-ddf4-c80e-391c95b813a4

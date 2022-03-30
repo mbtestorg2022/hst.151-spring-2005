@@ -7,6 +7,7 @@ description: 'This resource includes information about organophosphate poisoning
   therapeutic use of AchE inhibitors and summary of key points.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/hst-151-principles-of-pharmacology-spring-2005/f10112f37cc7179fc2a8c01d5b954cad_0203_case_exampl.pdf
 file_type: application/pdf
+parent_uid: 5502e4b6-eb0f-8058-7243-48791293e627
 resourcetype: Document
 title: 0203_case_exampl.pdf
 uid: f10112f3-7cc7-179f-c2a8-c01d5b954cad
